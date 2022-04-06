@@ -34,7 +34,7 @@ You need a Koyeb account to successfully deploy and run this application. If you
 
 The fastest way to deploy the Flask application using Fauna is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/junitadore56/example-flask-fauna=main&name=flask-with-fauna-on-koyeb&env[FAUNA_ADMIN_SECRET]&env[FAUNA_SERVER_SECRET])
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/junitadore56/example-flask-fauna=main&name=flask-with-fauna-on-koyeb&env[FAUNA_ADMIN_SECRET]&env[FAUNA_SERVER_SECRET])
 
 Clicking on this button brings you to the Koyeb App creation page with everything pre-set to launch this application.
 
